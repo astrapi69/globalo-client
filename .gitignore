@@ -37,8 +37,15 @@ typings
 # Optional REPL history
 .node_repl_history
 
-##################
-# Compiled files #
-##################
+###################
+# generated files #
+###################
 /app/*.js
 /app/*.js.map
+
+#################
+# eclipse files #
+#################
+/.project
+/.classpath
+/.settings
